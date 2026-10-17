@@ -37,12 +37,18 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Furina-star&show_icons=true&theme=transparent&hide_border=true&hide_rank=true" alt="GitHub Statistics">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furina-star&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Most Used Languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Furina-star&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Furina-star&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Activity Graph" />
 
 </div>
 
 ---
 
 <sub>
-💧 **Disclaimer:** Furina and Genshin Impact are associated with HoYoverse and their respective rights holders. This is an unofficial, non-commercial fan-inspired personal profile and is not affiliated with or endorsed by HoYoverse. Third-party artwork belongs to its respective creator.
+Disclaimer: Furina and Genshin Impact are associated with HoYoverse and their respective rights holders. This is an unofficial, non-commercial fan-inspired personal profile and is not affiliated with or endorsed by HoYoverse. Third-party artwork belongs to its respective creator.
 </sub>
