@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**Furina-star/Furina-Star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="./assets/Furina-book-emoji.webp" width="100" alt="Furina" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Michael Bello also known as Furina-Star!
+
+**Computer Science Student**
+
+*🫧 Learning by building, one project at a time probably.*
+
+</div>
+
+---
+
+### ⚜️ About Me
+
+- Working primarily with **Python**
+- Exploring **Data Science & Machine Learning**
+- Learning **Rust** and **Programming Language Internals**
+- Curious about **Compilers, Interpreters & Runtimes**
+- Practicing **Data Structures & Algorithms**
+
+### 🛠️ Languages & Tools
+
+`Python` · `Rust` · `JavaScript` · `Git`
+
+### 🎭 Featured Projects
+
+- [**Doodle Recognizer**](https://github.com/Furina-star/doodle-recognizer) — Neural network from scratch
+- [**SRTF Simulator**](https://github.com/Furina-star/srtf-simulator) — CPU scheduling simulator
+- [**LeetCode Solutions**](https://github.com/Furina-star/leetcode-solutions) — Algorithm practice
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Furina-star&show_icons=true&theme=transparent&hide_border=true&hide_rank=true" alt="GitHub Statistics">
+
+</div>
+
+---
+
+<sub>
+💧 **Disclaimer:** Furina and Genshin Impact are associated with HoYoverse and their respective rights holders. This is an unofficial, non-commercial fan-inspired personal profile and is not affiliated with or endorsed by HoYoverse. Third-party artwork belongs to its respective creator.
+</sub>
