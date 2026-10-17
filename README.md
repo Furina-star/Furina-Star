@@ -43,7 +43,7 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Furina-star&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Activity Graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=Furina-star&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="170" alt="GitHub Overview" />
 
 </div>
 
