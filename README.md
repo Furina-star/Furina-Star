@@ -38,12 +38,11 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furina-star&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Most Used Languages" />
-
 <img src="https://streak-stats.demolab.com/?user=Furina-star&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Furina-star&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="170" alt="GitHub Overview" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Furina-star&theme=tokyonight" width="725" alt="GitHub Contribution Activity" />
 
 </div>
 
