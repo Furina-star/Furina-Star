@@ -11,8 +11,6 @@
 
 <br>
 
-
-
 <img src="https://img.shields.io/badge/✦_FURINA-367FA4?style=flat-square" alt="Furina" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Learning_Rust-475569?style=flat-square&logo=rust&logoColor=white" alt="Learning Rust" />
@@ -25,21 +23,20 @@
 
 ### ⚜️ About Me
 
-- Working primarily with **Python** and **Rust**
+- Building projects with **Python** and **Rust**
 - Exploring **Data Science & Machine Learning**
-- Learning **Rust** and **Programming Language Internals**
-- Curious about **Compilers, Interpreters & Runtimes**
+- Interested in **Compilers, Interpreters & Runtimes**
 - Practicing **Data Structures & Algorithms**
 
 ### 🛠️ Languages & Tools
 
-`Python` · `Rust` · `JavaScript` · `Git`
+`Python` · `Rust` · `JavaScript` · `NumPy` · `pandas` · `Git`
 
 ### 🎭 Featured Projects
 
-- [**Doodle Recognizer**](https://github.com/Furina-star/doodle-recognizer) — Neural network from scratch
-- [**SRTF Simulator**](https://github.com/Furina-star/srtf-simulator) — CPU scheduling simulator
-- [**LeetCode Solutions**](https://github.com/Furina-star/leetcode-solutions) — Algorithm practice
+- [**Python-to-Rust Transpiler**](https://github.com/Furina-star/python-rust-transpiler) — A compiler project for a small Python-like language
+- [**Doodle Recognizer**](https://github.com/Furina-star/doodle-recognizer) — Neural network built from scratch with NumPy
+- [**LeetCode Solutions**](https://github.com/Furina-star/leetcode-solutions) — Algorithms and pandas practice
 
 ---
 
