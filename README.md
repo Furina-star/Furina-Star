@@ -56,14 +56,12 @@
 <div align="center">
 
 <details>
-<summary>
-<img src="https://img.shields.io/badge/Fontaine-Classified-367FA4?style=flat-square&labelColor=1C3052" alt="Open the classified Fontaine case file" />
-</summary>
+<summary><strong>⚖️ Fontaine Classified</strong></summary>
 
 <!-- FONTAINE_VERDICT_START -->
-<p><strong>⚖️ Case #204: Infinite Recursion</strong></p>
-<p>You summoned yourself without a base case.</p>
-<p><strong>Sentence:</strong> <code>Return immediately.</code></p>
+<p><strong>⚖️ Case #404: Unauthorized Curiosity</strong></p>
+<p>The court finds you guilty of reading the README too carefully.</p>
+<p><strong>Sentence:</strong> <code>git commit -m "worth it"</code></p>
 <!-- FONTAINE_VERDICT_END -->
 
 </details>
