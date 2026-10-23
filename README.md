@@ -28,31 +28,15 @@
 - Interested in **Compilers, Interpreters & Runtimes**
 - Practicing **Data Structures & Algorithms**
 
-
 ### 🛠️ Languages & Tools
 
 `Python` · `Rust` · `JavaScript` · `NumPy` · `pandas` · `Git`
-
 
 ### 🎭 Featured Projects
 
 - [**Python-to-Rust Transpiler**](https://github.com/Furina-star/python-rust-transpiler) — A compiler project for a small Python-like language
 - [**Doodle Recognizer**](https://github.com/Furina-star/doodle-recognizer) — Neural network built from scratch with NumPy
 - [**LeetCode Solutions**](https://github.com/Furina-star/leetcode-solutions) — Algorithms and pandas practice
-
-
-### ⚡ Latest Activity
-
-<!--RECENT_ACTIVITY:start-->
-1. Pushed updates to [Furina-star/leetcode-solutions](https://github.com/Furina-star/leetcode-solutions)<br>
-2. Pushed updates to [Furina-star/python-rust-transpiler](https://github.com/Furina-star/python-rust-transpiler)<br>
-3. Pushed updates to [Furina-star/python-rust-transpiler](https://github.com/Furina-star/python-rust-transpiler)<br>
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 23rd, 2026, 9:55:24 AM
-<!--RECENT_ACTIVITY:last_update_end-->
-
 
 ---
 
@@ -70,7 +54,6 @@ Last Updated: Friday, October 23rd, 2026, 9:55:24 AM
 </div>
 
 ---
-
 
 <sub>
 Disclaimer: Furina and Genshin Impact are associated with HoYoverse and their respective rights holders. This is an unofficial, non-commercial fan-inspired personal profile and is not affiliated with or endorsed by HoYoverse. Third-party artwork belongs to its respective creator.
