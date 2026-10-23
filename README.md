@@ -28,9 +28,11 @@
 - Interested in **Compilers, Interpreters & Runtimes**
 - Practicing **Data Structures & Algorithms**
 
+
 ### 🛠️ Languages & Tools
 
 `Python` · `Rust` · `JavaScript` · `NumPy` · `pandas` · `Git`
+
 
 ### 🎭 Featured Projects
 
@@ -51,6 +53,7 @@
 Last Updated: Friday, October 23rd, 2026, 9:55:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
+
 ---
 
 ### 📊 GitHub Statistics
@@ -67,6 +70,7 @@ Last Updated: Friday, October 23rd, 2026, 9:55:24 AM
 </div>
 
 ---
+
 
 <sub>
 Disclaimer: Furina and Genshin Impact are associated with HoYoverse and their respective rights holders. This is an unofficial, non-commercial fan-inspired personal profile and is not affiliated with or endorsed by HoYoverse. Third-party artwork belongs to its respective creator.
