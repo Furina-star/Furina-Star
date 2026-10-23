@@ -38,6 +38,13 @@
 - [**Doodle Recognizer**](https://github.com/Furina-star/doodle-recognizer) — Neural network built from scratch with NumPy
 - [**LeetCode Solutions**](https://github.com/Furina-star/leetcode-solutions) — Algorithms and pandas practice
 
+
+### ⚡ Latest Activity
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
 ---
 
 ### 📊 GitHub Statistics
