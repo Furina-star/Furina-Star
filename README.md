@@ -9,13 +9,23 @@
 
 *🫧 Learning by building, one project at a time probably.*
 
+<br>
+
+
+
+<img src="https://img.shields.io/badge/✦_FURINA-367FA4?style=flat-square" alt="Furina" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Learning_Rust-475569?style=flat-square&logo=rust&logoColor=white" alt="Learning Rust" />
+<img src="https://img.shields.io/badge/Data_Science-147D92?style=flat-square" alt="Data Science" />
+<img src="https://img.shields.io/badge/Programming_Languages-4169A1?style=flat-square" alt="Programming Languages" />
+
 </div>
 
 ---
 
 ### ⚜️ About Me
 
-- Working primarily with **Python**
+- Working primarily with **Python** and **Rust**
 - Exploring **Data Science & Machine Learning**
 - Learning **Rust** and **Programming Language Internals**
 - Curious about **Compilers, Interpreters & Runtimes**
