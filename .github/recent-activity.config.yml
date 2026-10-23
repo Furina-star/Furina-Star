@@ -1,8 +1,0 @@
-settings:
-  username: "Furina-star"
-  max_lines: 3
-  ignored_repos:
-    - "Furina-star/Furina-Star"
-
-messages:
-  push: "Pushed updates to {REPO}"
