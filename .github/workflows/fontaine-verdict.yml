@@ -1,0 +1,106 @@
+name: Daily Fontaine Verdict
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-verdict:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rotate the verdict
+        run: |
+          python3 - <<'PY'
+          from datetime import datetime
+          from pathlib import Path
+          from zoneinfo import ZoneInfo
+
+          cases = [
+              (
+                  "Case #404: Unauthorized Curiosity",
+                  "You read the README a little too closely.",
+                  'git commit -m "worth it"'
+              ),
+              (
+                  "Case #200: Suspicious Confidence",
+                  "Your code worked once, so you declared it flawless.",
+                  "Write another test."
+              ),
+              (
+                  "Case #418: Borrow Checker Dispute",
+                  "You attempted to borrow confidence without permission.",
+                  "Consult the compiler."
+              ),
+              (
+                  "Case #500: Runtime Incident",
+                  "You blamed Python for a typo of your own making.",
+                  "Read the traceback."
+              ),
+              (
+                  "Case #301: Unstaged Evidence",
+                  "Your changes were never added to the record.",
+                  "git add README.md"
+              ),
+              (
+                  "Case #204: Infinite Recursion",
+                  "You summoned yourself without a base case.",
+                  "Return immediately."
+              ),
+              (
+                  "Case #403: Forbidden Shortcut",
+                  "You copied a solution without understanding it.",
+                  "Explain the time complexity."
+              ),
+          ]
+
+          day = datetime.now(ZoneInfo("Asia/Manila")).date().toordinal()
+          title, charge, sentence = cases[day % len(cases)]
+
+          start = "<!-- FONTAINE_VERDICT_START -->"
+          end = "<!-- FONTAINE_VERDICT_END -->"
+
+          path = Path("README.md")
+          current = path.read_text(encoding="utf-8")
+
+          if (
+              current.count(start) != 1
+              or current.count(end) != 1
+              or current.index(start) > current.index(end)
+          ):
+              raise SystemExit("README verdict markers are invalid.")
+
+          before, _, rest = current.partition(start)
+          _, _, after = rest.partition(end)
+
+          verdict = (
+              f"<p><strong>⚖️ {title}</strong></p>\n"
+              f"<p>{charge}</p>\n"
+              f"<p><strong>Sentence:</strong> <code>{sentence}</code></p>"
+          )
+
+          path.write_text(
+              f"{before}{start}\n{verdict}\n{end}{after}",
+              encoding="utf-8"
+          )
+          PY
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Already up to date"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+          git commit -m "docs: rotate Fontaine verdict"
+          git push
