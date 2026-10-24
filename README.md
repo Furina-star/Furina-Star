@@ -59,9 +59,9 @@
 <summary><strong>⚖️ Fontaine Classified</strong></summary>
 
 <!-- FONTAINE_VERDICT_START -->
-<p><strong>⚖️ Case #404: Unauthorized Curiosity</strong></p>
-<p>The court finds you guilty of reading the README too carefully.</p>
-<p><strong>Sentence:</strong> <code>git commit -m "worth it"</code></p>
+<p><strong>⚖️ Case #403: Forbidden Shortcut</strong></p>
+<p>You copied a solution without understanding it.</p>
+<p><strong>Sentence:</strong> <code>Explain the time complexity.</code></p>
 <!-- FONTAINE_VERDICT_END -->
 
 </details>
