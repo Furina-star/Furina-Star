@@ -59,9 +59,9 @@
 <summary><strong>⚖️ Fontaine Classified</strong></summary>
 
 <!-- FONTAINE_VERDICT_START -->
-<p><strong>⚖️ Case #200: Suspicious Confidence</strong></p>
-<p>Your code worked once, so you declared it flawless.</p>
-<p><strong>Sentence:</strong> <code>Write another test.</code></p>
+<p><strong>⚖️ Case #418: Borrow Checker Dispute</strong></p>
+<p>You attempted to borrow confidence without permission.</p>
+<p><strong>Sentence:</strong> <code>Consult the compiler.</code></p>
 <!-- FONTAINE_VERDICT_END -->
 
 </details>
