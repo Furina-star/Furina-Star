@@ -59,9 +59,9 @@
 <summary><strong>⚖️ Fontaine Classified</strong></summary>
 
 <!-- FONTAINE_VERDICT_START -->
-<p><strong>⚖️ Case #418: Borrow Checker Dispute</strong></p>
-<p>You attempted to borrow confidence without permission.</p>
-<p><strong>Sentence:</strong> <code>Consult the compiler.</code></p>
+<p><strong>⚖️ Case #500: Runtime Incident</strong></p>
+<p>You blamed Python for a typo of your own making.</p>
+<p><strong>Sentence:</strong> <code>Read the traceback.</code></p>
 <!-- FONTAINE_VERDICT_END -->
 
 </details>
