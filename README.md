@@ -59,9 +59,9 @@
 <summary><strong>⚖️ Fontaine Classified</strong></summary>
 
 <!-- FONTAINE_VERDICT_START -->
-<p><strong>⚖️ Case #204: Infinite Recursion</strong></p>
-<p>You summoned yourself without a base case.</p>
-<p><strong>Sentence:</strong> <code>Return immediately.</code></p>
+<p><strong>⚖️ Case #403: Forbidden Shortcut</strong></p>
+<p>You copied a solution without understanding it.</p>
+<p><strong>Sentence:</strong> <code>Explain the time complexity.</code></p>
 <!-- FONTAINE_VERDICT_END -->
 
 </details>
