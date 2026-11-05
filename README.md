@@ -59,9 +59,9 @@
 <summary><strong>⚖️ Fontaine Classified</strong></summary>
 
 <!-- FONTAINE_VERDICT_START -->
-<p><strong>⚖️ Case #500: Runtime Incident</strong></p>
-<p>You blamed Python for a typo of your own making.</p>
-<p><strong>Sentence:</strong> <code>Read the traceback.</code></p>
+<p><strong>⚖️ Case #301: Unstaged Evidence</strong></p>
+<p>Your changes were never added to the record.</p>
+<p><strong>Sentence:</strong> <code>git add README.md</code></p>
 <!-- FONTAINE_VERDICT_END -->
 
 </details>
