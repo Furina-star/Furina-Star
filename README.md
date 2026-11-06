@@ -59,9 +59,9 @@
 <summary><strong>⚖️ Fontaine Classified</strong></summary>
 
 <!-- FONTAINE_VERDICT_START -->
-<p><strong>⚖️ Case #301: Unstaged Evidence</strong></p>
-<p>Your changes were never added to the record.</p>
-<p><strong>Sentence:</strong> <code>git add README.md</code></p>
+<p><strong>⚖️ Case #204: Infinite Recursion</strong></p>
+<p>You summoned yourself without a base case.</p>
+<p><strong>Sentence:</strong> <code>Return immediately.</code></p>
 <!-- FONTAINE_VERDICT_END -->
 
 </details>
