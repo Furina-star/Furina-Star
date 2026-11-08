@@ -44,16 +44,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furina-star&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Most Used Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Furina-star&theme=tokyonight" height="165" alt="Top Languages by Repo" />
 <img src="https://streak-stats.demolab.com/?user=Furina-star&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Furina-star&theme=tokyonight" width="725" alt="GitHub Contribution Activity" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Furina-star&theme=tokyonight" width="700" alt="GitHub Contribution Activity" />
 
 </div>
-
-<div align="center">
 
 <details>
 <summary><strong>⚖️ Fontaine Classified</strong></summary>
